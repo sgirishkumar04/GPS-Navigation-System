@@ -4,7 +4,7 @@
 [![Dijkstra's Algorithm](https://img.shields.io/badge/Algorithm-Dijkstra's-orange?style=for-the-badge&logo=D)](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 [![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-11557C?style=for-the-badge&logo=matplotlib)](https://matplotlib.org/)
 
-A powerful desktop application that implements **Dijkstra's algorithm** to calculate and visualize the shortest path between any two locations on a map. This project provides an interactive interface to select start and end points and displays the optimal route on a graphical map.
+A desktop application that implements **Dijkstra's algorithm** to calculate and visualize the shortest path between any two locations on a map. This project provides an interactive interface to select start and end points and displays the optimal route on a graphical map.
 
 ---
 
